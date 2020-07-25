@@ -19,7 +19,7 @@ Locate the Scripts folder -> Run the terminal in that directory -> Execute the c
 ```
 pip install textstat
 ```
-To run the text editor, locate the folder (repo) that you have cloned -> Run the terminal in that directory -> Execute the commmand"
+To run the text editor, locate the folder (repo) that you have cloned -> Run the terminal in that directory -> Execute the commmand:
 
 ```
 python TextEditor.py
