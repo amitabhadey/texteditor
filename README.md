@@ -1,6 +1,6 @@
-# Text Editor - has a GUI and grades composition
+# Text Editor
 
-A simple text editor that grades your composition. GUI is built on Python tkinter. Composition is graded via algorithms based on textstat. 
+A simple text editor with a GUI that grades your composition. GUI is built on Python tkinter. Composition is graded via algorithms based on textstat and developed further. 
 
 ## Getting Started
 
